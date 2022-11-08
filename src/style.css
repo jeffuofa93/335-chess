@@ -1,0 +1,24 @@
+.rightBorder {
+    -fx-border-style: hidden solid hidden hidden;
+    -fx-border-width: 5;
+    -fx-border-color: black;
+}
+
+.leftBorder {
+    -fx-border-style: hidden hidden hidden solid;
+    -fx-border-width: 5;
+    -fx-border-color: black;
+}
+
+
+.topBorder {
+    -fx-border-style: solid hidden hidden hidden;
+    -fx-border-width: 5;
+    -fx-border-color: black;
+}
+
+.bottomBorder {
+    -fx-border-style: hidden hidden solid hidden;
+    -fx-border-width: 5;
+    -fx-border-color: black;
+}
